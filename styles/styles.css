@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header */
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+}
