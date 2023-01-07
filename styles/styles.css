@@ -44,3 +44,48 @@
     font-size: 20px;
 
 }
+
+.failures{
+    display: flex;
+    justify-content: space-around;
+    width: 940px;
+    height: 260px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.failures-text{
+    width: 416px;
+    height: 400px;
+}
+.failures-title{
+    width: 288px;
+   height: 94px;
+   color: #151414;
+   font-weight: 700;
+    font-size: 40px;
+}
+.failures-description{
+    width: 416px;
+    height: 104px;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+}
+.failures-list{
+    width: 349px;
+    height: 162px;
+    color: #444343;
+    padding-bottom: 8px;
+    line-height: 30px;
+
+}
+/* li{
+    list-style-position: inside;
+    list-style-image: url(../images/icons/ok.png);
+    font-size: 20px;
+    margin: 20px;
+   
+    
+} */
