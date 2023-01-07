@@ -51,13 +51,13 @@
     display: flex;
     justify-content: space-around;
     width: 940px;
-   
     margin: auto;
     margin-top: 100px;
 
 }
 .failures-text{
     width: 416px;
+    margin-top: 150px;
     
 }
 .failures-title{
@@ -67,7 +67,7 @@
     font-size: 40px;
 }
 .failures-description{
-    
+    margin-bottom: 20px;
     color: #444343;
     font-weight: 400;
     font-size: 16px;
